@@ -1,4 +1,8 @@
 _repo: El-si-de-las-ninas_50027
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50027-h/images/cover.jpg
 creator:
   author:
     agent_name: Fernández de Moratín, Leandro
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44209
     wikipedia: http://en.wikipedia.org/wiki/Leandro_Fern%C3%A1ndez_de_Morat%C3%ADn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50027#El-si-de-las-ninas
 gutenberg_issued: '2015-09-21'
 gutenberg_type: Text
 identifiers:
